@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">HelloWorld</string>
     <string name="title">This is first application from Group nG05:</string>
-    <string name="body">-\tIngars Jēkabsons\n-\tZanda Puze\n-\tJana Puze</string>
+    <string name="body">-\tIngars Jēkabsons\n-\tZanda Puče\n-\tJana Puze</string>
     <string name="credits">This application was developed by Ingars Jēkabsons</string>
 </resources>
